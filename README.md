@@ -16,6 +16,11 @@ Run following command to start the server
 
 node app.js
 
+There are two routes available:
+
+http://localhost:4000/sitemap.xml
+http://localhost:4000/video_sitemap.xml
+
 ## Test run
 
 Run following command to run the tests
