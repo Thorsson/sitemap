@@ -18,9 +18,9 @@ node app.js
 
 There are two routes available:
 
-[http://localhost:4000/sitemap.xml]
+[http://localhost:4000/sitemap.xml][http://localhost:4000/sitemap.xml]
 
-[http://localhost:4000/video_sitemap.xml]
+[http://localhost:4000/video_sitemap.xml][http://localhost:4000/sitemap.xml]
 
 ## Test run
 
